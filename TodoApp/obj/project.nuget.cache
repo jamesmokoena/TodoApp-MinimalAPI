@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0WwqUktZPIqdcv+yf6uKdy7lzL8GtvdPy3dy0p5hR1a1PokB2hQaHaPbeIoOew5vyrTI9h+vJn81whgiFQCAAw==",
+  "dgSpecHash": "HpR8aPn17GAaPW26NSnH59hJpdCh8A16CKCUD+cbT88itzk6tTSl5zaM+bX3A3gSm/pkpR3lrpx2B4ctPDnUNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\newor\\Music\\minApi\\TodoApp\\TodoApp.csproj",
+  "projectFilePath": "C:\\Users\\newor\\Videos\\TodoApp-MinimalAPI\\TodoApp\\TodoApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\newor\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
     "C:\\Users\\newor\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
